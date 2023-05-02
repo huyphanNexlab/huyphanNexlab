@@ -5,7 +5,6 @@ Mobile Developer (Android & Flutter)
 
 [![Github](https://img.shields.io/github/followers/huyphanNexlab?style=social)](https://github.com/huyphanNexlab)
 [![Github](https://img.shields.io/github/last-commit/huyphanNexlab/huyphanNexlab)](https://github.com/huyphanNexlab/huyphanNexlab)
-[![Github](https://img.shields.io/github/stars/huyphanNexlab/flutter-clean-architecture?style=social)](https://github.com/huyphanNexlab/huyphanNexlab)
 [![Github](https://img.shields.io/github/watchers/huyphanNexlab/huyphanNexlab?style=social)](https://github.com/huyphanNexlab/huyphanNexlab)
 
 
